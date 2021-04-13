@@ -1,0 +1,27 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Files/CSDocs/cis580/GameProject4/Content/AIGeneratedBGM.mp3","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/AIGeneratedBGM.xnb","SongProcessor","SongContent",1717634,132,1.7884
+"F:/Files/CSDocs/cis580/GameProject4/Content/background.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/background.xnb","TextureProcessor","Texture2DContent",67016,1536085,0.2702218
+"F:/Files/CSDocs/cis580/GameProject4/Content/bangers.spritefont","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/bangers.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1201381
+"F:/Files/CSDocs/cis580/GameProject4/Content/bangers2.spritefont","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/bangers2.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136226,0.028774
+"F:/Files/CSDocs/cis580/GameProject4/Content/blank.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/blank.xnb","TextureProcessor","Texture2DContent",187,149,0.0058648
+"F:/Files/CSDocs/cis580/GameProject4/Content/circle.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/circle.xnb","TextureProcessor","Texture2DContent",281,869,0.1570769
+"F:/Files/CSDocs/cis580/GameProject4/Content/DragonShoot.wav","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/DragonShoot.xnb","SoundEffectProcessor","SoundEffectContent",7982,8043,0.157913
+"F:/Files/CSDocs/cis580/GameProject4/Content/DragonSprite.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/DragonSprite.xnb","TextureProcessor","Texture2DContent",1681,49237,0.0068036
+"F:/Files/CSDocs/cis580/GameProject4/Content/DragonSprite2.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/DragonSprite2.xnb","TextureProcessor","Texture2DContent",1971,65621,0.0096513
+"F:/Files/CSDocs/cis580/GameProject4/Content/explosion.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/explosion.xnb","TextureProcessor","Texture2DContent",102248,1048661,0.0466157
+"F:/Files/CSDocs/cis580/GameProject4/Content/Feesh.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Feesh.xnb","TextureProcessor","Texture2DContent",654,16469,0.0060877
+"F:/Files/CSDocs/cis580/GameProject4/Content/Fireball.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Fireball.xnb","TextureProcessor","Texture2DContent",2981,16469,0.0059909
+"F:/Files/CSDocs/cis580/GameProject4/Content/gamefont.spritefont","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/gamefont.xnb","FontDescriptionProcessor","SpriteFontContent",425,70690,0.0382328
+"F:/Files/CSDocs/cis580/GameProject4/Content/gradient.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/gradient.xnb","TextureProcessor","Texture2DContent",258,341,0.0065394
+"F:/Files/CSDocs/cis580/GameProject4/Content/hit.wav","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/hit.xnb","SoundEffectProcessor","SoundEffectContent",13274,13335,0.1515527
+"F:/Files/CSDocs/cis580/GameProject4/Content/hit2.wav","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/hit2.xnb","SoundEffectProcessor","SoundEffectContent",36206,36267,0.1525674
+"F:/Files/CSDocs/cis580/GameProject4/Content/liftoff_of_smap.mp4","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/liftoff_of_smap.xnb","VideoProcessor","VideoContent",19672249,253,0.1141228
+"F:/Files/CSDocs/cis580/GameProject4/Content/Lil_D_Body1.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Lil_D_Body1.xnb","TextureProcessor","Texture2DContent",469,16469,0.0082373
+"F:/Files/CSDocs/cis580/GameProject4/Content/Lil_Dragon_Head1.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Lil_Dragon_Head1.xnb","TextureProcessor","Texture2DContent",737,16469,0.0090333
+"F:/Files/CSDocs/cis580/GameProject4/Content/Mecheval.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Mecheval.xnb","TextureProcessor","Texture2DContent",3277,16469,0.0099995
+"F:/Files/CSDocs/cis580/GameProject4/Content/menufont.spritefont","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/menufont.xnb","FontDescriptionProcessor","SpriteFontContent",428,37922,0.0220782
+"F:/Files/CSDocs/cis580/GameProject4/Content/particle.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/particle.xnb","TextureProcessor","Texture2DContent",577,1109,0.0013191
+"F:/Files/CSDocs/cis580/GameProject4/Content/PenguinKing.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/PenguinKing.xnb","TextureProcessor","Texture2DContent",4550,131157,0.0144794
+"F:/Files/CSDocs/cis580/GameProject4/Content/PenguinShoot.wav","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/PenguinShoot.xnb","SoundEffectProcessor","SoundEffectContent",6220,6281,0.1547479
+"F:/Files/CSDocs/cis580/GameProject4/Content/SnowBackground.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/SnowBackground.xnb","TextureProcessor","Texture2DContent",69193,3686485,0.2972403
+"F:/Files/CSDocs/cis580/GameProject4/Content/splash.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/splash.xnb","TextureProcessor","Texture2DContent",31452,1553365,0.0600405
