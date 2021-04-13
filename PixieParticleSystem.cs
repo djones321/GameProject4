@@ -10,7 +10,6 @@ namespace GameProject4
     class PixieParticleSystem : ParticleSystem
     {
         IParticleEmitter _emitter;
-        float scale;
 
         public PixieParticleSystem(Game game, IParticleEmitter emitter) : base(game, 2000)
         {
@@ -33,7 +32,7 @@ namespace GameProject4
 
             var acceleration = Vector2.UnitY * 400;
 
-            scale = RandomHelper.NextFloat(0.1f, 0.5f);
+            var scale = RandomHelper.NextFloat(0.1f, 0.5f);
 
             var lifetime = RandomHelper.NextFloat(0.1f, 1.0f);
 
@@ -43,10 +42,8 @@ namespace GameProject4
 
         public override void Update(GameTime gameTime)
         {
-            this.InitializeConstants();
             base.Update(gameTime);
             AddParticles(_emitter.Position);
-            base.Draw(gameTime);
         }
     }
 }

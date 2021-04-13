@@ -19,8 +19,6 @@ namespace GameProject4.Screens
     public class GameplayScreen : GameScreen, IParticleEmitter
     {
         private ContentManager _content;
-        //private SpriteBatch _spriteBatch;
-        //GameComponentCollection Components;
         private SpriteFont _gameFont;
         private Game game;
 
@@ -32,12 +30,9 @@ namespace GameProject4.Screens
         private float _pauseAlpha;
         private readonly InputAction _pauseAction;
 
-        //private GraphicsDeviceManager _graphics;
-        //private SpriteBatch _spriteBatch;
         private SpriteFont spriteFont;
         private SpriteFont spriteFont2;
         private CharacterSprite dragon;
-        //private EnemySprite[] mecheval;
         private PenguinKing pk;
         //private PenguinKing[] randomPK = new PenguinKing[3];
         private Random rand;
@@ -62,6 +57,7 @@ namespace GameProject4.Screens
 
         private ExplosionParticleSystem[] explosion = new ExplosionParticleSystem[64];
         private FireworkParticleSystem firework;
+        private TrailParticleSystem[] trail = new TrailParticleSystem[64];
         //private PixieParticleSystem[] pixie = new PixieParticleSystem[64];
         private double explosionTimer;
         public Vector2 Position { get; set; }
@@ -151,6 +147,12 @@ namespace GameProject4.Screens
             {
                 explosion[i] = new ExplosionParticleSystem(game, 10);
                 game.Components.Add(explosion[i]);
+            }
+
+            for (int i = 0; i<feesh.Length; i++)
+            {
+                trail[i] = new TrailParticleSystem(game, 10);
+                game.Components.Add(trail[i]);
             }
 
             background = _content.Load<Texture2D>("SnowBackground");
@@ -253,7 +255,7 @@ namespace GameProject4.Screens
                 for(int i = 0; i<feesh.Length;i++)
                 {
                     feesh[i].Update(gameTime, pk.position);
-
+                    trail[i].PlaceTrail(new Vector2(feesh[i].position.X+24, feesh[i].position.Y+8));
                     Velocity = feesh[i].position - Position;
                     Position = feesh[i].position;
 

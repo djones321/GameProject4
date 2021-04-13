@@ -8,6 +8,7 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "F:/Files/CSDocs/cis580/GameProject4/Content/DragonShoot.wav","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/DragonShoot.xnb","SoundEffectProcessor","SoundEffectContent",7982,8043,0.157913
 "F:/Files/CSDocs/cis580/GameProject4/Content/DragonSprite.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/DragonSprite.xnb","TextureProcessor","Texture2DContent",1681,49237,0.0068036
 "F:/Files/CSDocs/cis580/GameProject4/Content/DragonSprite2.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/DragonSprite2.xnb","TextureProcessor","Texture2DContent",1971,65621,0.0096513
+"F:/Files/CSDocs/cis580/GameProject4/Content/drop.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/drop.xnb","TextureProcessor","Texture2DContent",316,925,0.1631908
 "F:/Files/CSDocs/cis580/GameProject4/Content/explosion.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/explosion.xnb","TextureProcessor","Texture2DContent",102248,1048661,0.0466157
 "F:/Files/CSDocs/cis580/GameProject4/Content/Feesh.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Feesh.xnb","TextureProcessor","Texture2DContent",654,16469,0.0060877
 "F:/Files/CSDocs/cis580/GameProject4/Content/Fireball.png","F:/Files/CSDocs/cis580/GameProject4/Content/bin/Windows/Content/Fireball.xnb","TextureProcessor","Texture2DContent",2981,16469,0.0059909
